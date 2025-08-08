@@ -1,0 +1,30 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  padding: 20px;
+  background-color: #93D077;
+  text-align: center;
+  position: relative;
+}
+
+.title1 {
+  
+}
+
+input,
+button {
+  margin: 5px;
+  border-radius:10%;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+}
+
+.container{
+  position: relative;
+}
