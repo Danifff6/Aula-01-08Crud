@@ -1,4 +1,3 @@
-/* Reset básico */
 * {
   margin: 0;
   padding: 0;
@@ -25,7 +24,7 @@ h2 {
   color: #E9F7EF;
 }
 
-/* Inputs */
+
 input {
   padding: 10px;
   margin: 5px;
@@ -58,7 +57,7 @@ button:hover {
   transform: scale(1.05);
 }
 
-/* Lista */
+
 ul {
   list-style: none;
   padding: 0;
